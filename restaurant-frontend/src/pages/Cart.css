@@ -1,0 +1,10 @@
+/* Add this to your CSS file */
+.container {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

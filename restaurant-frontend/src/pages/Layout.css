@@ -1,0 +1,16 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(253, 253, 249);
+    margin: 0;
+    padding: 20px;
+}
+
+.myNav {
+    border: 2px solid black;
+    height: 76px;
+    width: 1485.61px;
+}
+.logo {
+    font-family: sans-serif;
+    /* Change font without fail */
+}

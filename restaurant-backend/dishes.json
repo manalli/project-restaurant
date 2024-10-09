@@ -1,0 +1,82 @@
+[
+        {
+            "dishName": "Spaghetti Aglio e Olio",
+            "rate": 10.99,
+            "description": "A simple dish of spaghetti tossed with garlic, olive oil, and red pepper flakes.",
+            "rating": "4.5",
+            "quantity": "200 gm",
+            "image": "https://www.gimmesomeoven.com/wp-content/uploads/2020/04/Spaghetti-Aglio-e-Olio-Recipe-1-2.jpg"
+        },
+        {
+            "dishName": "Margherita Pizza",
+            "rate": 12.99,
+            "description": "Classic pizza topped with fresh mozzarella, tomatoes, and basil.",
+            "rating": "4.8",
+            "quantity": "35 cm(diameter)",
+            "image": "https://cookieandkate.com/images/2021/07/margherita-pizza-recipe-1-2.jpg"
+        },
+        {
+            "dishName": "Lasagna",
+            "rate": 14.49,
+            "description": "Layers of pasta, ricotta cheese, meat sauce, and mozzarella baked to perfection.",
+            "rating": "4.7",
+            "quantity": "250 gm",
+            "image": "https://www.allrecipes.com/thmb/golmLzT4rSJfJ6QRi4e0G_82mDc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/23600-worlds-best-lasagna-armag-4x3-1-b24f9ad518d74090bf197828492c64a6.jpg"
+        },
+        {
+            "dishName": "Risotto alla Milanese",
+            "rate": 13.99,
+            "description": "Creamy saffron risotto from Milan, rich and flavorful.",
+            "rating": "4.6",
+            "quantity": "215 gm",
+            "image": "https://www.foodandwine.com/thmb/W7ShhrRI3_xlR8oYCLiYjIWOVfU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FAW-recipes-milanese-risotto-step-10-50da2d70c8934350bdcb58b6cb423eba.jpg"
+        },
+        {
+            "dishName": "Osso Buco",
+            "rate": 19.99,
+            "description": "Braised veal shanks with vegetables, served with gremolata.",
+            "rating": "4.9",
+            "quantity": "190 gm",
+            "image": "https://www.simplyrecipes.com/thmb/KdjAthWZDX2M5p_7UWAiu_Hi0sY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Osso-Buco-LEAD-3-9d4dc02d8a324370bd8a920bc82f3905.jpg"
+        },
+        {
+            "dishName": "Fettuccine Alfredo",
+            "rate": 11.99,
+            "description": "Fettuccine pasta in a rich and creamy Alfredo sauce.",
+            "rating": "4.5",
+            "quantity": "290 gm",
+            "image": "https://www.allrecipes.com/thmb/uhyjbhMrDwnrSC24augjHmfu-Sg=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-23431-to-die-for-fettuccine-alfredo-DDMFS-beauty-3x4-b64d36c7ff314cb39774e261c5b18352.jpg"
+        },
+        {
+            "dishName": "Caprese Salad",
+            "rate": 9.99,
+            "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic reduction.",
+            "rating": "4.8",
+            "quantity": "100 gm",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/08/caprese-salad-recipe.jpg"
+        },
+        {
+            "dishName": "Tiramisu",
+            "rate": 6.99,
+            "description": "A classic Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+            "rating": "4.7",
+            "quantity": "1 Slice",
+            "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2017/04/Tiramisu-15-190x190.jpg"
+        },
+        {
+            "dishName": "Pesto Genovese Pasta",
+            "rate": 11.49,
+            "description": "Pasta tossed with homemade basil pesto, pine nuts, and parmesan.",
+            "rating": "4.6",
+            "quantity": "220 gm",
+            "image": "https://pastaevangelists.com/cdn/shop/articles/pesto_alla_tagliatelle.png?v=1583254642&width=768"
+        },
+        {
+            "dishName": "Bruschetta al Pomodoro",
+            "rate": 8.49,
+            "description": "Toasted bread topped with a mixture of diced tomatoes, garlic, and basil.",
+            "rating": "4.5",
+            "quantity": "350 gm",
+            "image": "https://www.insidetherustickitchen.com/wp-content/uploads/2017/08/bruschetta-al-pomodoro-1-PS-600x900-inside-the-rustic-kitchen.jpg"
+        }
+]
